@@ -1,3 +1,8 @@
+# USB Thumb Drive Security Key Project
+
+This project aims to create a USB thumb drive-based security key system, similar to a YubiKey, where each USB drive can be configured to trigger specific actions upon being plugged in or unplugged.
+The application allows users to customize the behavior of each key, including defining actions like running scripts or files, passing key-specific data as argument to those.
+The system also supports features like multiple key assignments, USB cloning (future).
 
 ## Features
 
@@ -24,8 +29,6 @@
 - [x] Config and actions for security concerns should be saved on the user's system to prevent unauthorized code execution.
 - [ ] Encrypt configuration files to avoid tampering.
 
-### 🕑 Time-Based Locking
-- [ ] Option to set time-based locking, where actions are only performed within a specific time window.
-## Other features
+## Other Features
 
 - [x] **Multiple Keys**: Allow multiple keys to be assigned to one action (for backup in case of loss).
