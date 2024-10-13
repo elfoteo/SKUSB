@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKUSB", "SecurityKey\SKUSB.csproj", "{5D73AB4F-6258-46C6-819E-ECAEAD98D121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D73AB4F-6258-46C6-819E-ECAEAD98D121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D73AB4F-6258-46C6-819E-ECAEAD98D121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D73AB4F-6258-46C6-819E-ECAEAD98D121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D73AB4F-6258-46C6-819E-ECAEAD98D121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC8C1EDC-603F-4C74-B9AD-16B65FEE59D4}
+	EndGlobalSection
+EndGlobal
