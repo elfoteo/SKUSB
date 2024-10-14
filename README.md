@@ -1,4 +1,4 @@
-# USB Thumb Drive Security Key
+# USB drive Security Key
 
 This project aims to create a USB thumb drive-based security key system, similar to a YubiKey, where each USB drive can be configured to trigger specific actions upon being plugged in or unplugged.
 The application allows users to customize the behavior of each key, including defining actions like running scripts or files, passing key-specific data as argument to those.
